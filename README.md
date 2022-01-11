@@ -1,3 +1,3 @@
 # wdd130
 
-Yay
+Yay.
