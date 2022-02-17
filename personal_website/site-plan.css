@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Roboto+Serif:wght@200&display=swap');
+.font1 {
+    font-family: Serif, "Roboto Serif" Helvetica;
+}
+.font2 {
+    font-family: "Roboto Serif", Serif, Helvetica;
+}
+.font3 {
+    font-family: Helvetica, "Roboto Serif", "Lato";
+}
+
+
+:root {
+  --primary-color: #221D23   ;
+  --secondary-color: #70798C ;
+  --accent1-color: #F5F1ED;
+  --accent2-color: #DAD2BC;
+  --accent3-color: #A99985;
+}
+
+body{
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 4em;
+    font-size: 18px;
+    font-family: "Roboto Serif" "Lato" Helvetica;
+}
+
+.colors {
+    width: 100%;
+    min-width: 350px;
+    margin: 30px auto;
+    text-align: center;
+  }
+  .colors th {
+    background-color: #999;
+  }
+  .colors td{
+    width: 20%;
+    height: 3em;
+  }
+  .primary {
+    background-color: var(--primary-color);
+    color: white;
+  }
+  .secondary {
+    background-color: var(--secondary-color);
+  }
+  .accent1 {
+    background-color: var(--accent1-color);
+  }
+  .accent2{
+    background-color: var(--accent2-color);
+  }
+  .accent3{
+      background-color: var(--accent3-color);
+  }
