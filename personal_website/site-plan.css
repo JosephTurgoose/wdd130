@@ -55,3 +55,8 @@ body{
   .accent3{
       background-color: var(--accent3-color);
   }
+
+  .unity, .unreal, .pokemon, .games, .my-game, .mario {
+    max-width: 750px;
+    height: auto;
+  }
