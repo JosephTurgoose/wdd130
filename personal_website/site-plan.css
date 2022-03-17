@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Roboto+Serif:wght@200&display=swap');
 .font1 {
-    font-family: Serif, "Roboto Serif" Helvetica;
+    font-family: Serif, "Roboto Serif", Helvetica;
 }
 .font2 {
     font-family: "Roboto Serif", Serif, Helvetica;
